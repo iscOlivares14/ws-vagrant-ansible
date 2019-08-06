@@ -4,8 +4,8 @@
 ---
 ### Contents
 
-- [Goal](goal)
-- [Requirements](requirements)
+- [Goal](#goal)
+- [Requirements](#requirements)
 - [Vagrant](docs/vagrant-notes.md)
   * What Vagrant is?
   * Getting a box
