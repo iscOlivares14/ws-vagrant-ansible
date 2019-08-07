@@ -1,4 +1,8 @@
-# Workshop: Vagrant & Ansible
+# Workshop:
+
+<img src="docs/img/logo_vagrant.png" width="250" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="docs/img/ansible_logo.png" width="100" />
 
 ## Setting up your local environment.
 ---

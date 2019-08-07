@@ -1,0 +1,8 @@
+# OSX file manager
+.DS_Store
+
+# vagrant workspace
+.vagrant/
+
+# ansible logs
+ubuntu-*.log
