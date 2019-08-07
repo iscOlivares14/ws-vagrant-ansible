@@ -6,7 +6,7 @@
 
 - [Goal](#goal)
 - [Requirements](#requirements)
-- [Vagrant](docs/vagrant-notes.md)
+- [Vagrant](/docs/vagrant-notes.md)
   * What Vagrant is?
   * Getting a box
   * Define your VMs
@@ -80,7 +80,7 @@ Vagrant 2.2.5
 *Let's add the box we're gonna use for the WS, you can think in a box like a version of a VM, and that version will be downloaded from the [box catalog](https://app.vagrantup.com/boxes/search) to our localfiles*
 
 ```bash
-> vagrant add box ubuntu/bionic64
+> vagrant box add ubuntu/bionic64
 ```
 
 - __Ansible (~2.7)__ - A configuration management tool written on Python.
@@ -89,6 +89,9 @@ To install the library you should run the next command and give the permission:
 
 ```bash
 > sudo pip install ansible==2.7.11
+
+# if you can't find the command then try specifying the python version
+> sudo pip3 install ansible==2.7.11
 ```
 
 *Try the following commands to confirm*
