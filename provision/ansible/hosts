@@ -1,0 +1,3 @@
+# webappserver ansible_host=127.0.0.1 ansible_port=2203
+
+webappserver ansible_host=127.0.0.1 ansible_port=2203 ansible_user=vagrant ansible_private_key_file=../../.vagrant/machines/webappserver/virtualbox/private_key

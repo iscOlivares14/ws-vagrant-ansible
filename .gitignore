@@ -3,6 +3,7 @@
 
 # vagrant workspace
 .vagrant/
+*.retry
 
 # ansible logs
 ubuntu-*.log

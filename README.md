@@ -25,11 +25,12 @@
     - System role
     - MongoDB role
     - Application role
-    - Ngix role
+    - Nginx role
     - Systemd role
     - Database playbook
     - Application playbook
     - Run your playbooks
+- [Challenge](docs/challenge.md)
 
 ---
 
