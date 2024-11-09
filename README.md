@@ -43,13 +43,13 @@ Attendes will learn what `vagrant` and `Ansible` are, will be able to define a l
 
 To attend the workshop you need to have the following software installed and the order is suggested:
 
-- __Virtualbox (6.0)__ - Which is used as a provider supporting the VM creation. [Download](https://www.virtualbox.org/wiki/Downloads)
+- __Virtualbox (>=6.0)__ - Which is used as a provider supporting the VM creation. [Download](https://www.virtualbox.org/wiki/Linux_Downloads)
 
 *After this you should be able to see the GUI of Virtualbox on your computer.*
 
 ![Vbox](docs/img/vbox_installed.png)
 
-- __python (3.6)__ - Ansible is written on python and this is one of the stable versions for now. [Download](https://www.python.org/downloads/release/python-368/)
+- __python (>=3.6)__ - Ansible is written on python and this is one of the stable versions for now. [Download](https://www.python.org/downloads/release/python-368/)
 
 *To confirm the python installation runs the following command*
 
@@ -73,7 +73,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >
 ```
 
-- __Vagrant (2.2.5)__ - a wrapper tool to handle VM's from different providers. [Download](https://www.vagrantup.com/downloads.html)
+- __Vagrant (2.2.5)__ - a wrapper tool to handle VM's from different providers. [Download](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
 
 *Once installed try the following commands to confirm everything is working fine.*
 
